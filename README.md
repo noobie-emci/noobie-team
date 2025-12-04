@@ -2,12 +2,6 @@
   <img src="https://github.com/noobie-emci/noobie-team/blob/main/noobie-sources/noobie-team_banner.png" alt="Noobie Team Banner" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/noobie-emci/noobie-team/blob/main/noobie-sources/noobie-team_logo1.png" width="200" alt="Noobie Team Logo" />
-</p>
-
 <h1 align="center">🚀 Noobie Team</h1>
 
 <p align="center">
@@ -39,7 +33,7 @@ Noobie Team tools are designed to be:
 
 # 🛠️ Tools Developed / Automated
 
-### 📦 **noobie-installer**
+### 📦 noobie-installer
 A tool to automate the setup of a clean, organized pentesting workspace for beginners.
 
 Includes:
@@ -56,7 +50,7 @@ Includes:
 
 # 🌱 Our Mission
 
-> **To empower beginners to learn ethical hacking safely, responsibly, and effectively—one tool at a time.**
+> To empower beginners to learn ethical hacking safely, responsibly, and effectively—one tool at a time.
 
 Cybersecurity should be:
 - Safe  
@@ -71,10 +65,10 @@ Noobie Team exists to give newcomers the support they rarely get.
 
 # 🛡️ Disclaimer
 
-> **Noobie Team develops tools for educational and ethical-hacking purposes only.  
+> Noobie Team develops tools for educational and ethical-hacking purposes only.  
 Any misuse of these tools is strictly discouraged.  
 The developers hold no liability for illegal or unethical use.  
-Use responsibly.**  
+Use responsibly.
 
 ---
 
@@ -106,6 +100,12 @@ More community channels will be added soon.
 
 ---
 
+<br>
+
 <p align="center">
-  <b>Noobie Team — Ethical Hacking Starts Here.</b>
+  <img src="https://github.com/noobie-emci/noobie-team/blob/main/noobie-sources/noobie-team_logo1.png" width="120" alt="Noobie Team Logo" />
+</p>
+
+<p align="center">
+  Noobie Team — Ethical Hacking Starts Here.
 </p>
